@@ -3,4 +3,4 @@ In order to trun the notebooks for both
 - UK_Train_Ridership.ipynb
 
 take the scripts inside and run them on either *Jupyter Notebook* or *Google Colab*
-Make sure to upload the dataset itself "Depi railway project.csv" before running the scripts 
+Make sure to upload the dataset itself "Depi project railway.csv" before running the scripts 
