@@ -4,3 +4,23 @@ In order to run the notebooks for both
 
 take the scripts inside and run them on either *Jupyter Notebook* or *Google Colab*
 Make sure to upload the dataset itself "Depi project railway.csv" before running the scripts 
+
+
+----------PROJECT STRUCTURE----------
+
+EXCEL:
+-Added new columns to the dataset
+-Used powerquery to manage data more efficiently
+
+PANDAS:
+-Data cleaning
+-EDA (filling missing data, checking NULL values)
+
+POWERBI:
+-Data visualization
+-Dashboard
+
+SCIKIT-LEARN:
+-Time-series Regression
+-Prediction for Revenue, Rides after 30 days
+-Comparison for ticket membership (standard - first class)
