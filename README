@@ -24,3 +24,27 @@ SCIKIT-LEARN:
 -Time-series Regression
 -Prediction for Revenue, Rides after 30 days
 -Comparison for ticket membership (standard - first class)
+
+----------FOLDER STRUCTURE----------
+The project is divided into the following folder structures:
+-Excel Data Files
+  It is divided into two folders.
+  -raw UK train dataset (before any analysis work on it)
+  -Cleaned data set
+Inside they contain the files for these data
+
+
+-Pandas + Forecasting
+  -Pandas EDA code
+  -Sci-kit learn code
+  -Readme file
+
+-Power BI files
+  -Contains the dashboards in a pdf
+  -Contains the zip that contain the dashboard
+
+Also both the proposal and github link to the repo are provided with the drive
+
+
+
+
